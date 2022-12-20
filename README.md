@@ -26,7 +26,7 @@
 ##
   
 <div style="display: inline_block"><h3>MICROCONTROLLERS:</h3><br>
-    
+    <div align="center">
   <a href = "https://github.com/GabrielMagan/ESP32"><img height="198" width="198" src="https://user-images.githubusercontent.com/111460258/208544245-a44b86a6-3d17-4233-a7d1-6dcbdda01a09.png"></a>
   <a href="https://github.com/GabrielMagan/Raspberry-Pi-Pico-W" target="_blank"><img height="198" width="198" src="https://user-images.githubusercontent.com/111460258/208544466-33a6fc40-8e13-45b3-82f8-e66168b945b2.png" target="_blank"></a> 
   <a href = "https://github.com/GabrielMagan/DigisPark"><img height="198" width="198" src="https://user-images.githubusercontent.com/111460258/208544859-7b2c90ee-9cae-4887-9537-5ad10103283f.png"></a>
