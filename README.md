@@ -25,23 +25,15 @@
   
 ##
   
-<div align="center">
- <a href="https://github.com/GabrielMagan/ESP32"><img align="center" alt="mgn-esp" height="450" width="450" src="https://user-images.githubusercontent.com/111460258/208544245-a44b86a6-3d17-4233-a7d1-6dcbdda01a09.png"></a>
-    <img align="center" alt="mgn-digis" height="1" width="15" src="https://user-images.githubusercontent.com/111460258/208546242-2d94f7ab-1229-41e0-af95-e865da18e569.png"> 
- <a href="https://github.com/GabrielMagan/Raspberry-Pi-Pico-W"><img align="center" alt="mgn-rasp" height="450" width="450" src="https://user-images.githubusercontent.com/111460258/208544466-33a6fc40-8e13-45b3-82f8-e66168b945b2.png"></a>
- 
-</div>
-  <div>
-    <img align="center" alt="mgn-digis" height="1" width="1" src="https://user-images.githubusercontent.com/111460258/208546242-2d94f7ab-1229-41e0-af95-e865da18e569.png"> 
-  </div>
-  
-<div align="center">
- <a href="https://github.com/GabrielMagan/DigisPark"><img align="center" alt="mgn-digis" height="450" width="450" src="https://user-images.githubusercontent.com/111460258/208544859-7b2c90ee-9cae-4887-9537-5ad10103283f.png"></a>
-    <img align="center" alt="mgn-digis" height="1" width="15" src="https://user-images.githubusercontent.com/111460258/208546242-2d94f7ab-1229-41e0-af95-e865da18e569.png"> 
-  <a href="https://github.com/GabrielMagan/ESP32+Raspberry"><img align="center" alt="mgn-espRasp" height="450" width="450" src="https://user-images.githubusercontent.com/111460258/208544888-df026d11-6b49-474b-ba96-73553a0f0109.png"></a>
- 
-</div>
-
+<div style="display: inline_block"><h3>Microcontroladores:</h3><br>
+    
+  <a href = "https://github.com/GabrielMagan/ESP32"><img height="140" width="140" src="https://user-images.githubusercontent.com/111460258/208544245-a44b86a6-3d17-4233-a7d1-6dcbdda01a09.png"></a>
+  <a href="https://github.com/GabrielMagan/Raspberry-Pi-Pico-W" target="_blank"><img height="140" width="140" src="https://user-images.githubusercontent.com/111460258/208544466-33a6fc40-8e13-45b3-82f8-e66168b945b2.png" target="_blank"></a> 
+  <a href = "https://github.com/GabrielMagan/DigisPark"><img height="140" width="140" src="https://user-images.githubusercontent.com/111460258/208544859-7b2c90ee-9cae-4887-9537-5ad10103283f.png"></a>
+  <a href="https://github.com/GabrielMagan/ESP32+Raspberry" target="_blank"><img height="140" width="140" src="https://user-images.githubusercontent.com/111460258/208544888-df026d11-6b49-474b-ba96-73553a0f0109.png" target="_blank"></a> 
 
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+ 
+##
